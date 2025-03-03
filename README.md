@@ -327,3 +327,10 @@ void loop() {
     /*---------------------------------------------------------------------------------------------------------------------------*/
     
 ## Diseños
+### PCB con encoder 
+[![image.png](https://i.postimg.cc/tgRFZgyg/image.png)](https://postimg.cc/yD5D2sDq)
+### Esquematico con Encoder 
+[![image.png](https://i.postimg.cc/44hj02g5/image.png)](https://postimg.cc/6TtH20T2)
+### Simulaciones  
+
+
